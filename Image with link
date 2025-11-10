@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Images and Links</title>
+</head>
+<body>
+  <h2>My Favorite Car</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Hot_Wheels_logo.svg" width="200" alt="Hot Wheels Logo">
+  <p>Visit <a href="https://www.hotwheels.com">Hot Wheels Official Site</a></p>
+</body>
+</html>
