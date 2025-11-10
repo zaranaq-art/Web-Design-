@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Styled Page</title>
+  <style>
+    body {
+      background-color: lightblue;
+      font-family: Arial;
+      text-align: center;
+    }
+    h1 {
+      color: darkblue;
+    }
+  </style>
+</head>
+<body>
+  <h1>Beautiful Day!</h1>
+  <p>This page is styled with CSS.</p>
+</body>
+</html>
